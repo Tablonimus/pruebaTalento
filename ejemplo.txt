@@ -1,1 +1,1 @@
-esto es un ejemplo
+esto es un ejemplo, y agrego texto pero no he hecho el  git add .
